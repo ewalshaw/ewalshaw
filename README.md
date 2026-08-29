@@ -3,8 +3,8 @@
 
 - 🤖 Interested in **AI/ML, software engineering, and product**
 - 💼  **Business Technology Analyst Intern @ Manulife** (Fall 2026)
-- 🔬 Prior **ML Research Assistant @ UWaterloo**, working on alignment & LLM steering
-- 💻 Prior **Software Developer Intern @ Poket**
+- 🔬 Previously an **ML Research Assistant @ UWaterloo**, working on alignment & LLM steering
+- 💻 Previously a **Software Developer Intern @ Poket**
 - 📫 Reach me at **erinwalshaw@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -14,9 +14,9 @@
 
 ### 🚀 Featured Projects
 
-- **Carbon Calories** — AI-powered, carbon-conscious personal chef app. Full-stack (Next.js/React + Python + MongoDB) with Gemini API integration for meal analysis.
-- **Constitutional Simplex Research** — Formalized model behavioral constraints as geometric structures over latent space; built PyTorch pipelines to steer models toward target profiles.
-- **AI + UX Prototyping (Google-sponsored)** — Built an AI-powered learning tool for hardware design courses; presented at the Google-UWaterloo Symposium and featured on Google's blog.
+- **Carbon Calories**: AI-powered, carbon-conscious personal chef app. Full-stack (Next.js/React + Python + MongoDB) with Gemini API integration for meal analysis.
+- **Constitutional Simplex Research**: Formalized model behavioral constraints as geometric structures over latent space; built PyTorch pipelines to steer models toward target profiles.
+- **AI + UX Prototyping (Google-sponsored)**: Built an AI-powered learning tool for hardware design courses; presented at the Google-UWaterloo Symposium and featured on Google's blog.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
