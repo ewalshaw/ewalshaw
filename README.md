@@ -13,6 +13,9 @@
 
 ### 🚀 Featured Projects
 
+- 🛠️**Currently Building InsightCI**🛠️: a self-hosted CI system using Docker for job execution, Redis for queueing, and Postgres for state and artifacts, with AI-assisted failure analysis.
+- **pyglance**: A dependency-free static analyzer for Python. Finds unused imports, long functions, TODO/FIXME comments, dead code, and circular imports.
+- **TinyIR**: A minimal information retrieval engine in Python. Indexes .txt files, builds TF-IDF vectors with scikit-learn, and ranks queries by cosine similarity.
 - **Carbon Calories**: AI-powered, carbon-conscious personal chef app. Full-stack (Next.js/React + Python + MongoDB) with Gemini API integration for meal analysis.
 - **Constitutional Simplex Research**: Formalized model behavioral constraints as geometric structures over latent space; built PyTorch pipelines to steer models toward target profiles.
 - **AI + UX Prototyping (Google-sponsored)**: Built an AI-powered learning tool for hardware design courses; presented at the Google-UWaterloo Symposium and featured on Google's blog.
