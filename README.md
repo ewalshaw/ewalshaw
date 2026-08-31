@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Erin</h1>
 <h3 align="center">CS @ University of Waterloo | AI Specialization</h3>
 
-- 🤖 Interested in **AI/ML, software engineering, and product**
 - 💼  **Business Technology Analyst Intern @ Manulife** (Fall 2026)
 - 🔬 Previously an **ML Research Assistant @ UWaterloo**, working on alignment & LLM steering
 - 💻 Previously a **Software Developer Intern @ Poket**
