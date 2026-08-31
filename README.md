@@ -36,8 +36,9 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
 </p>
-
+<!--
 <h3 align="left">My GitHub Stats:</h3>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=ewalshaw&hide_border=true&background=FFFFFF&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2&sideLabels=0A66C2&sideNums=0A66C2&currStreakNum=0A66C2" alt="GitHub Streak Stats" />
 </p>
+-->
