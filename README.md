@@ -16,6 +16,7 @@
 - 🛠️**Currently Building InsightCI**🛠️: a self-hosted CI system using Docker for job execution, Redis for queueing, and Postgres for state and artifacts, with AI-assisted failure analysis.
 - **pyglance**: A dependency-free static analyzer for Python. Finds unused imports, long functions, TODO/FIXME comments, dead code, and circular imports.
 - **TinyIR**: A minimal information retrieval engine in Python. Indexes .txt files, builds TF-IDF vectors with scikit-learn, and ranks queries by cosine similarity.
+- **C++ http server**: a Windows HTTP server built on Winsock instead of a framework. Routes cover a home page, the current time, ASCII art, and a health check with uptime.
 - **Carbon Calories**: AI-powered, carbon-conscious personal chef app. Full-stack (Next.js/React + Python + MongoDB) with Gemini API integration for meal analysis. Currently rewriting from a previous hackathon project.
 
 
